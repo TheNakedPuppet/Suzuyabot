@@ -1,0 +1,652 @@
+[Grisaia no Kajitsu]
+Yumiko Sakaki
+Amane Suou
+Michiru Matsushima
+Makina Irisu
+Sachi Komine
+Chizuru Tachibana
+Kazuki Kazami
+[Katawa Shoujo]
+Hanako Ikezawa
+Lilly Satou
+Shizune Hakamichi
+Shiina "Misha" Mikado
+Emi Ibarazaki
+Rin Tezuka
+Suzu Suzuki
+[Gokukoku no Brynhildr]
+Neko Kuroha
+Kana Tachibana
+Kazumi Schlierenzauer
+Kotori Takatori
+Hatsuna Wakabayashi
+[Steins;Gate]
+Kurisu Makise
+Mayuri Shiina
+Ruka Urushibara
+Suzuha Amane
+Faris Nyannyan
+[Toaru Kagaku no Railgun]
+Misaka Mikoto
+Ruiko Saten
+Kazari Uiharu
+Kuroko Shirai
+[Monogatari Series]
+Tsukihi Araragi
+Tsubasa Hanekawa
+Shinobu Oshino
+Nadeko Sengoku
+Karen Araragi
+[Kill la Kill]
+Ryuuko Matoi
+Satsuki Kiryuuin
+Nonon Jakuzure
+Mako Mankanshoku
+[FLCL]
+Haruko Haruhara
+[Rail Wars]
+Aoi Sakurai
+Haruka Koumi
+[Yuru Yuri]
+Akari Akaza
+Kyouko Toshino
+Yui Funami
+Chinatsu Yoshikawa
+[DanganRonpa]
+Junko Enoshima
+Chihiro Fujisaki
+[Kyoukai no Kanata]
+Mirai Kuriyama
+Izumi Nase
+[Fate/kaleid liner Prisma Illya]
+Illyasviel von Einzbern
+Rin Tohsaka
+[Fate/stay]
+Luvia Edelfelt
+[Fate/zero]
+Irisviel von Einzbern
+Irisviel von Einzbern
+Saber/Arturia Pendragon
+Maiya Hisau
+[Fate/extra]
+Saber
+[Fate/stay night]
+Berserker
+Archer
+Caster
+[Fate]
+Assassin
+True Assassin
+Avenger
+[OreImo]
+Ayase Aragaki
+Kanako Kurusu
+Kirino Kousaka
+Manami Tamura
+Saori Makishima
+Ruri "Kuroneko" Goko
+Kousaka Kirino
+[Evangelion]
+Asuka Langley Soryu
+Misato Katsuragi
+Rei Ayanami
+Mari Illustrious Makinami
+[No Game No Life]
+Shiro
+Stephanie Dora
+Jibril
+Izuna Hatsuse
+[Tonari no Kaibutsu-kun]
+Shizuku Mizutani
+Asako Natsume
+Iyo Yamaguchi
+[Toradora]
+Aisaka Taiga
+Minori Kushieda
+Ami Kawashima
+[Highschool DxD]
+Akeno Himejima
+Koneko Toujou
+Xenovia
+[Nagi no Asukara]
+Manaka Mukaido
+Chisaki Hiradaira
+Miuna Shiodome
+Sayu Hisanuma
+Akari Shiodome
+Miori Shiodome
+Kaori Akiyoshi
+Yu Seiki
+[Himegoto]
+18-kin
+Unko
+[K-ON!]
+Yui Hirasawa
+Ritsu Tainaka
+Mio Akiyama
+Tsumugi Kotobuki
+Azusa Nakano
+Jun Suzuki
+[Kiniro Mosaic]
+Shinobu Omiya
+Alice Cartalet
+Aya Komichi
+Yoko Inokuma
+Karen Kujo
+Isami Omiya
+Sakura Karasuma
+Akari Kuzehashi
+Honoka Matsubara
+[Mahou Shoujo Madoka Magica]
+Akemi Homura
+Sakura Kyoko
+Madoka Kaname
+Mami Tomoe
+Sayaka Miki
+Nagisa Momoe
+Kyubey
+[Haganai]
+Maria Takayama
+Yukimura Kusunoki
+[Angel Beats!]
+Kanade Tachibana
+Yuri Nakamura
+Eri Shiina
+Yusa
+Masami Iwasawa
+Yui
+Hisako
+Miyuki Irie
+Shiori Sekine
+[Aria the Origination]
+Akari Mizunashi
+[C3]
+Fear Kubrick
+[Corpse Party]
+Ayumi Shinozaki
+[Date a Live]
+Kurumi Tokisaki
+[Deadman Wonderland]
+Shiro
+[Kore wa Zombie desu ka?]
+Haruna
+[Little Busters]
+Yuiko Kurugaya
+Kudryavka Noumi
+[Noragami]
+Kofuku Ebisu
+Hiyori Iki
+[Sailor Moon]
+Usagi Tsukino/Sailor Moon
+Ami Mizuno/Sailor Mercury
+Rei Hino/Sailor Mars
+Minako Aino/Sailor Venus
+Makoto Kino/Sailor Jupiter
+Haruka Tenoh/Sailor Uranus
+Michiru Kaioh/Sailor Neptune
+Setsuna Meioh/Sailor Pluto
+Naru Osaka
+[Spice & Wolf]
+Horo
+[Shingeki no Kyojin]
+Mikasa Ackerman
+Sasha Blouse
+[Shinsekai Yori]
+Saki Watanabe
+[Suzumiya Haruhi no Yuutsu]
+Haruhi Suzumiya
+Yuki Nagato
+Mikuru Asahina
+[Teekyu]
+Kanae Shinjou
+[WataMote]
+Tomoko Kuroki
+[Touhou]
+Reimu Hakurei
+Marisa Kirisame
+Patchouli Knowledge
+Sakuya Izayoi
+Remilia Scarlet
+Flandre Scarlet
+Yuyuko Saigyouji
+[Work in Progress]
+Caprice Shiften
+Mekki Clarke
+Hayley Curah
+[Dysfunctional Systems]
+Winter Harrison
+Waverly Ayre
+Irie Garrott
+[Homeward]
+Nonami Kitahara
+Haruka Nakamiya
+Sora Saionji
+[deIz]
+Iris
+Cerise
+Amethyst
+Mikado
+[Nichijou]
+Yuko Aioi
+Mio Naganohara
+Mai Minakami
+Nano Shinonome
+Izumi Sakurai
+Misato Tachibana
+Haruna Annaka
+Yuria Sekiguchi
+[Persona]
+Kanji Tatsumi
+Naoto Shirogane
+Tohru Adachi
+Rise Kujikawa
+Margaret
+Yukiko Amagi
+Chie Satonaka
+Female Protagonist
+Yukari Takeba
+Junpei Iori
+Mitsuru Kirijo
+Akihiko Sanada
+Fuuka Yamagishi
+Aigis
+[Gatchaman Crowds]
+Hajime Ichinose
+Utsutsu
+Rui Ninomiya
+[Durarara!!]
+Anri Sonohara
+Celty Sturluson
+Erika Karisawa
+Namie Yagiri
+Mika Harima
+Mairu Orihara
+Kururi Orihara
+Saki Mikajima
+[GJ-bu]
+Mao Amatsuka
+Megumi Amatsuka
+Shion Sumeragi
+Kirara Bernstein
+Tamaki Kannazuki
+Kasumi Shinomiya
+Seira Amatsuka
+Geraldine Bernstein
+[Lucky Star]
+Konata Izumi
+Kagami Hiiragi
+Tsukasa Hiiragi
+Miyuki Takara
+Yutaka Kobayakawa
+Minami Iwasaki
+Patricia Martin
+Hiyori Tamura
+Izumi Wakase
+Ayano Minegishi
+Misao Kusakabe
+Akira Kogami
+[Yuyushiki]
+Yuzuko Nonohara
+Yui Ichii
+Yukari Hinata
+Chiho Aikawa
+Kei Okano
+Fumi Hasegawa
+Yoriko Matsumoto
+[Tokyo Ravens]
+Natsume Tsuchimikado
+Suzuka Dairenji
+Akino Souma
+Miyo Kurahashi
+[Higurashi no Naku Koro ni]
+Rena Ryugu
+Mion Sonozaki
+Shion Sonozaki
+Satoko Houjou
+Rika Furude
+Hanyū
+[Another]
+Mei Misaki
+Izumi Akazawa
+Yukari Sakuragi
+Takako Sugiura
+Yumi Ogura
+[School Days]
+Kotonoha Katsura
+Sekai Saionji
+Setsuna Kiyoura
+Hikari Kuroda
+Nanami Kanroji
+Otome Katou
+Kokoro Katsura
+[Tsukihime]
+Aoko Aozaki
+Arcueid Brunestud
+Ciel
+Akiha Tohno
+Hisui
+Kohaku
+Satsuki Yumizuka
+[Sayonara Zetsubou Sensei]
+Chiri Kitsu
+Kaede Kimura
+Kaere Kimura
+Kafuka Fuura
+Nami Hitou
+Ai Kaga
+Abiru Kobushi
+Kiri Komori
+Meru Otonashi
+Matoi Tsunetsuki
+Rin Itoshiki
+Chie Arai
+[Ryuugajou Nanana no Maizoukin]
+Tensai Ikkyuu
+Ryuugajou Nanana
+[Maria Holic]
+Mariya Shidou
+Matsurika Shinouji
+[Trinity Seven]
+Arata Kasuga
+Lilith Asami
+Mira Yamana
+Arin Kannazuki
+Akio Fudo
+Levi Kazama
+Hijiri Kasuga
+Yui Kurata
+Lieselottle Sherlock
+Selina Sherlock
+The Astil Manuscript
+Ilias Fragment
+Rogue
+[Nisekoi]
+Chitoge Kirisaki
+Kosaki Onodera
+Ruri Miyamoto
+Seishirou Tsugumi
+Marika Tachibana
+Paula McCoy
+Haru Onodera
+Yui Kanakura
+[Hyouka]
+Eru Chitanda
+Mayaka Ibara
+Fuyumi Irisu
+Kurako Eba
+Misaki Sawakiguchi
+Tomoe Oreki
+Kaho Jumonji
+Kayo Zenna
+[Kantai Collection]
+Shimakaze
+Amatsukaze
+Yamato
+Musashi
+I-401
+Kongou
+[Mekakucity Actors]
+Takane "Ene" Enomoto
+Tsubomi Kido
+Marry Kozakura
+Momo Kisaragi
+Hiyori Asahina
+Shion Kozakura
+Ayano Tateyama
+Azami
+[Gochuumon wa Usagi Desu ka?]
+Cocoa Hoto
+Chino Kafu
+Rize Tedeza
+Chiya Ujimatsu
+Sharo Kirima
+Maya Joga
+Megumi Natsu
+Midori Aoyama
+Mocha Hoto
+[Panty and Stocking with Garterbelt]
+Panty Anarchy
+Stocking Anarchy
+Briefers Rock
+[JoJo's Bizarre Adventure]
+Dio Brando
+[Tamako Market]
+Tamako Kitashirakawa
+Midori Tokiwa
+Kanna Makino
+Shiori Asagiri
+[Guilty Crown]
+Inori Yuzuriha
+Mana Ouma
+[Gurren Lagann]
+Yoko Littner
+Nia Teppelin
+[Naruto]
+Ino Yamanaka
+Hinata Hyuga
+Sakura Haruno
+Temari
+[Fairy Tail]
+Meredy Milkovich
+Lucy Heartfilia
+Wendy Marvell
+[Aquarion EVOL]
+Mikono Suzushiro
+Yunoha Thrul
+Zessica Wong
+Mix
+Sazanka Bianca
+[Shiki]
+Ikumi Itou
+Kiyomi Nagata
+Yasuyo Hashiguchi
+[! 'Izuna: Unemployed Ninja']
+Ichika
+Shino
+[RWBY]
+Ruby Rose
+Blake Belladonna
+Weiss Schnee
+Pyrrha Nikos
+Nora Valkyrie
+Glynda Goodwitch
+Yang Xiao Long
+Velvet Scarlatina
+Coco
+Cinder Fall
+Neapolitan
+Emerald Sustrai
+Melanie Malachite
+Miltiades Malachite
+Penny
+Lisa Lavender
+[Umineko No Naku Koro Ni]
+Beatrice
+Bernkastel
+Lambdadelta
+Erika Furudo
+Jessica Ushiromiya
+Rosa Ushiromiya
+Shannon
+Eva Ushiromiya
+Dlanor A. Knox
+[Avatar]
+Jinora
+Ikki
+Korra
+Toph Beifong
+Asami Sato
+Eska
+Opal
+Kuvira
+Katara
+Azula
+Suki
+Mai
+[Sword Art Online]
+Asada Shino
+Asuna Yuuki
+Yuuki Konno
+Suguha Kirigaya
+Ayano Keiko
+Shinozaki Rika
+[IS: Infinite Stratos]
+Houki Shinonono
+Cecilia Alcott
+Lingyin Huang
+Charlotte Dunois
+Laura Bodewig
+Chifuyu Orimura
+Kanzashi Sarashiki
+Tatenashi Sarashiki
+Madoka Orimura
+Natasha Fairs
+Maya Yamada
+Tabane Shinonono
+Autumn
+Squall Meusel
+Chloe Chronicle
+[Kino's Journey]
+Kino
+[Fruits Basket]
+Tohru Honda
+[Ping Pong]
+Kong Wenge
+[Zankyou no Terror]
+Twelve
+[Serial Experiments Lain]
+Lain
+[Mirai Nikki]
+Yuno Gasai
+[Hidamari Sketch]
+Yuno
+Miyako
+Sae
+Hiro
+Nori
+Nazuna
+Natsume
+[Mai Hime or Otome]
+Mai Tokiha
+Shizuru Fujino
+Natsuki Kuga
+Nao Yuuki
+Miyu Greer
+Chie Harada
+Akane Higurashi
+Yukino Kikukawa
+Haruka Suzushiro
+Mikoto Minagi
+Akira Okuzaki
+Fumi Himeno
+Mashiro Kazahana
+Midori Sugiura
+[Akame ga Kill]
+Akame
+Leone
+Mine
+Najenda
+Sheele
+Chelsea
+Esdeath
+Kurome
+Seryuu
+Sayo
+[Attack on Titan]
+Mikasa Ackerman
+Annie Leonhart
+Krista Lenz/Historia Reiss
+Ymir
+Hange Zoe
+Petra Ral
+Sasha Braus
+[Azumanga Daioh]
+Ayumu Kasuga
+Chiyo Mihama
+Tomo Takino
+Koyomi Mizuhara
+Sakaki
+Kagura
+[Fullmetal Alchemist]
+Winry Rockbell
+Lust
+Sloth
+Riza Hawkeye
+Olivier Armstrong
+Lan Fan
+Sheska
+Rose Thomas
+Martel
+[Monthly Girls' Nozaki-kun]
+Kashima Yuu
+Sakura Chiyo
+Yuzuki Seo
+[Trigun]
+Milly Thompson
+Meryl Stryfe
+[Ouran High School Host Club]
+Haruhi Fujioka
+Renge Houshakuji
+[Revolutionary Girl Utena]
+Utena Tenjou
+Anthy Himemiya
+Juri Arisugawa
+Nanami Kiryuu
+Kozue Kaoru
+Wakaba Shinohara
+Shiori Takatsuki
+[Princess Tutu]
+Rue/Princess Kraehe
+[Minami-ke]
+Haruka Minami
+Kana Minami
+Chiaki Minami
+[Lupin III]
+Fujiko Mine
+[Neon Genesis Evangelion | NGE]
+Misato Katsuragi
+[Cowboy Bebop]
+Faye Valentine
+[Katekyo Hitman Reborn]
+Chrome Dokuro
+Kyoko Sasagawa
+Lal Mirch
+[Twitch Chat]
+Ayitzchance
+Dittochan
+Sunny
+PogChamp
+Justcallmecomett
+Alice_margatroid_Sama
+InfiniteWalruses
+double0lemon
+aaronxps
+cogan126
+Miyutaco
+[Love Live!]
+Yazawa Nico
+Tojo Nozomi
+Kousaka Honoka
+Minami Kotori
+Sonoda Umi
+Nishikino Maki
+Hoshizora Rin
+Koizumi Hanayo
+Ayase Eli
+[Yosuga no Sora]
+Kasugano Sora
+[Oregairu]
+Yuigahama Yui
+Yukinoshita Yukino
+Ebina Hina
+Miura Yumiko
+Haruno Yukinoshita
+Hikigaya Komachi
+Hiratsuka Shizuka
+Kawasaki Saki
+Totsuka Saika
+Isshiki Iroha
+Orimoto Kaori
+[Shokugeki no Souma]
+Erina Nakiri
+Tadokoro Megumi
